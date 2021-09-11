@@ -1,3 +1,7 @@
 git add Satit-new.txt
-git commit -m "add new text file"
+git commit -m "add Satit-new text file"
 git push origin main
+
+--------------------
+
+add after 1st push
