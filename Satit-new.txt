@@ -12,3 +12,5 @@ ceate new branch "NewOnDesktop"
 
 --- หลังจาก commit to NewOnDesktop
 	ลองแก้ส่วนนี้อีก
+
+--- 10:43 @IT Green
