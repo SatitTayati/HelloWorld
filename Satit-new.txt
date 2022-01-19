@@ -5,3 +5,10 @@ git push origin main
 --------------------
 
 add after 1st push
+
+---- 19-Jan-2022
+ceate new branch "NewOnDesktop"
+ลองแก้ไข เติมในส่วนที่เห็นนี้
+
+--- หลังจาก commit to NewOnDesktop
+	ลองแก้ส่วนนี้อีก
