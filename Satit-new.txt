@@ -14,3 +14,7 @@ ceate new branch "NewOnDesktop"
 	ลองแก้ส่วนนี้อีก
 
 --- 10:43 @IT Green
+
+--------------------
+Today is 12-Oct-2022 13:05 PM
+I am here again to study more on github usage.
